@@ -27,7 +27,7 @@
 
 ## Latex
 
-- latex在线编辑：[(latex.codecogs](https://latex.codecogs.com/)
+- latex在线编辑：[latex.codecogs](https://latex.codecogs.com/)
 
 ## 流程图
 
@@ -42,15 +42,14 @@
 ## pic
 
 - 在线画布
-  - [canvas](https://canvas.apps.chrome/)
-- 抠图
+  - chrome画布：[canvas](https://canvas.apps.chrome/)
+  - 立体图片：[voxelize-image](https://pissang.github.io/voxelize-image/)
+- 在线抠图
   - [remove](https://www.remove.bg/zh)
-- 图片压缩
+- 在线图片压缩
   - png压缩：[tinypng](https://tinypng.com/)
   - git压缩：[soogif](https://www.soogif.com/compress)
-- 绘制
-  - [立体图片](https://pissang.github.io/voxelize-image/)
-- 格式转换
+- 在线格式转换
   - [svg2png](https://svgtopng.com/zh/)
 - AI
   - 无损放大：[bigjpg](https://bigjpg.com/zh)
@@ -58,8 +57,9 @@
 
 ## PDF
 
-- [ilovepdf](https://www.ilovepdf.com/)
-- [smallpdf](https://smallpdf.com/)
+- 格式转换
+  - [ilovepdf](https://www.ilovepdf.com/)
+  - [smallpdf](https://smallpdf.com/)
 
 ## 素材&资源
 
